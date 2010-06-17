@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<pLayout>
+		<pStyles cType="page" bgColor="0x202020" />
+		<pStyles cType="thumbCntnr" position="bottom" nW="580" nH="65" vMargin="10" corners="6,6,6,6" bgColor="0x202020,0x3F3F3F"  borderSize="2" borderColor="0xFFFFFF" />
+		<pStyles cType="nav" nW="16" nH="16" shape_type="arrow" bgColor="0x999999" bgColorHover="0x4E6698" borderSize="1" borderColor="0xFFFFFF" borderColorHover="0xFFFFFF" />
+		<pStyles cType="thumbs" borderSize="2" borderColorHover="0xFFFFFF" borderColorSelected="0xFF6600" vMargin="4" hMargin="4" />
+		<pStyles cType="large" borderSize="2" borderColor="0xFFFFFF" transTypeIn="Fade" transTypeOut="Photo,PixelDissolve" />
+		<pStyles cType="title" showTitle="true" position="top" vMargin="10" fontColor="0xFFFFFF" tProperties="autoSize:center" tFormat="font:Arial,bold:true,align:center,color:0xFFFFFF,size:12" />
+	</pLayout>
+</config>
